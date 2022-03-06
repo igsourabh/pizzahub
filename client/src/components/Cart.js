@@ -193,7 +193,7 @@ const Cart = () => {
           </div>
         </div>
       )}
-      <div className="container mx-auto px-11 ">
+      <div className="container h-screen mx-auto px-11 ">
         <div className="flex shadow-md my-10">
           <div className="w-full bg-white md:px-10 py-10">
             <div className="flex justify-between border-b pb-8">
